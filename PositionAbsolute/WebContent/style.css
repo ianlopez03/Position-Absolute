@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+#arriba {
+	border: black 4px solid;
+	display: inline;
+	content-box;
+	width: 200px;
+	height: 100px;
+}
+#img{
+	border: black 4px solid;
+	width: 100px;
+	height: 100px;
+}
+#imagenA{
+	border: black 4px solid;
+	width: 100px;
+	height: 100px;
+	right: 910px;
+	position: absolute;
+}
+#imagenB{
+	border: black 4px solid;
+	width: 100px;
+	height: 100px;
+}
+
+#imagenC{
+	border: black 4px solid;
+	width: 350px;
+	height: 350px;
+	position: absolute;
+	left: 220px;
+
+}
+
+#medio {
+	border:black 4px solid;
+	display:inline-block;
+	content-box;
+	width: 200px;
+	height: 100px;
+}
+#section {
+	top: -10px;
+}
+
+#bajoA {
+	border:4px solid;
+	display:inline-block;
+	box-sizing:content-box;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	top: 550px; left: 40px;
+}
+
+#bajoB {
+	border: black 4px solid;
+	display:block;
+	content-box;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	top: 635px; left: 70px;
+}
+
+#bajoC {
+	border: black 3px solid;
+	display:inline-block;
+	content-box;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	top: 550px;
+	left: 585px;
+}
+
+#bajoR {
+	border:green 4px solid;
+	display:inline-block;
+	position: fixed;
+right: 0px; bottom: 0px;
+	box-sizing: content-box;
+	width: 200px;
+	height: 100px;
+	
+}
+#sector2{
+	top: 9px;
+}
